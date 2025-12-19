@@ -37,7 +37,7 @@ Redesigned the master dataset to be analytics-ready:
 - Excel formulas, validation, and pivot tables
 
 ### Sample Files
-- [Sample Before and After Dataset(sample_dataset_before_and after.xlsx)
+- [Sample Before and After Dataset] (sample_dataset_before_and after.xlsx)
 
 ### Before vs. After Table
 | Before (Messy)                  | After (Analytics-Ready)                  |
